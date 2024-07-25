@@ -1,0 +1,15 @@
+{
+	"name": "blog-preview-card-main",
+	"version": "1.0.0",
+	"description": "![Design preview for the Blog preview card coding challenge](./preview.jpg)",
+	"main": "index.js",
+	"scripts": {
+		"dev": "npx tailwindcss -i ./assets/style/input.css -o ./assets/style/output.css --watch",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Heru Azy",
+	"license": "ISC",
+	"devDependencies": {
+		"tailwindcss": "^3.4.6"
+	}
+}
